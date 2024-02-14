@@ -69,6 +69,17 @@ main {
     width: 49%;
     background-color: #8c004b;
   }
+  #imagen1{
+    width: 32%;
+  }
+  #imagen2{
+    width: 32%;
+  }
+  #imagen3{
+    width: 32%;
+  }
+
+  
   #sugerencias{
     width: 98%;
     background-color: grey;
